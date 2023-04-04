@@ -4,7 +4,7 @@
   Bartłomiej Gintowt
   
 ## Krótki opis projektu:
-  Implementacja oraz wykorzystanie modelu Isinga.
+  Implementacja oraz wykorzystanie modelu Isinga do symulacji Monte Carlo.
   
 ## Pliku odpowiadające odpowiedniej częsci raportu:
 
