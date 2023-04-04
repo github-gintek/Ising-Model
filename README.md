@@ -6,7 +6,7 @@
 ## Krótki opis projektu:
   Implementacja oraz wykorzystanie modelu Isinga do symulacji Monte Carlo.
   
-## Pliku odpowiadające odpowiedniej częsci raportu:
+## Pliki odpowiadające odpowiedniej częsci raportu:
 
 ### Kod wykorzystany do raportu w języku ptyhon
   Model isinga.py
