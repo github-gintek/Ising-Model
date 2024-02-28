@@ -8,7 +8,7 @@
   
 ## Pliki odpowiadające odpowiedniej częsci raportu:
 
-### Kod wykorzystany do raportu w języku ptyhon
+### Kod wykorzystany do raportu w języku python
   Model isinga.py
  
 ### Raport w pliku pdf
